@@ -18,5 +18,6 @@ A beautifully styled Like/Unlike toggle button component built using **Next.js**
 
 
 
-<img width="559" alt="Screenshot 2025-06-21 at 5 07 04 PM" src="https://github.com/user-attachments/assets/baddd60c-3e50-4bff-a4a6-621f7b5eab1f" />
-<img width="578" alt="Screenshot 2025-06-21 at 5 07 20 PM" src="https://github.com/user-attachments/assets/b290fe2c-b674-4c54-bcee-7f79fb814a80" />
+
+<img width="415" alt="Screenshot 2025-06-21 at 5 10 20 PM" src="https://github.com/user-attachments/assets/8e2250c9-6527-48ff-9700-c882b06fb814" />
+![Uploading Screenshot 2025-06-21 at 5.10.31 PM.png…]()
