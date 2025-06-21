@@ -1,0 +1,49 @@
+.likeUnlike {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to bottom right, #fdfbfb, #ebedee);
+  font-family: "Segoe UI", sans-serif;
+  text-align: center;
+}
+
+.count {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #ff1155;
+  margin-bottom: 20px;
+}
+
+.button {
+  border-radius: 8px;
+  padding: 12px 28px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-weight: 600;
+}
+
+.liked {
+  background-color: #ff1155;
+  color: #ffffff;
+  border: 2px solid #ff1155;
+  box-shadow: 0 4px 12px #ff11554d;
+}
+
+.unliked {
+  background-color: #ffffff;
+  color: #ff1155;
+  border: 2px solid #ff1155;
+}
+
+.button:hover {
+  background-color: #ff1155;
+  color: #fff;
+  transform: scale(1.05);
+}
+
+.emoji {
+  font-size: 2.5rem;
+}
